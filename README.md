@@ -1,5 +1,5 @@
-I am a personal game creator.
-I mainly use GB Studio and Unity.
+I am a personal game creator.<br>
+I mainly use GB Studio and Unity.<br>
 Thank you very much!
 
 <!---
