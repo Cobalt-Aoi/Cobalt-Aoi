@@ -10,6 +10,10 @@ Thank you very much!<br>
 GB StudioとUnityを主に使います。<br>
 よろしくお願いします。<br>
 
+X (Twitter): https://x.com/crossinthedark<br>
+itch.io: https://cobaltaoi.itch.io/<br>
+
+
 <p align="left">
   <a href="https://github.com/Cobalt-Aoi">
     <img height="20" src="https://komarev.com/ghpvc/?username=Cobalt-Aoi" />
